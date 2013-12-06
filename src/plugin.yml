@@ -1,0 +1,7 @@
+name: FrameFix
+main: com.xorinc.framefix.FrameFix
+version: 1.0.0
+author: drXor
+website: http://github.com/drXor
+description: >
+    "Fixes" new 1.7 itemframe func
